@@ -1,0 +1,4 @@
+檔案位置：C:\xampp\htdocs\hw3
+
+要在瀏覽器上開這個project:先開XAMPP把Apache跟MySQL都打開，然後網址列輸入 http://localhost/hw3/home.php
+要看資料庫：網址列輸入 http://www.localhost/phpmyadmin/index.php
